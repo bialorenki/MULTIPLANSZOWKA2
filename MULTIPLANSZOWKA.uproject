@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{822326F8-4918-1128-249F-FA998462BCB8}",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "MetaHumanCharacter",
-			"Enabled": true
 		}
 	]
 }
